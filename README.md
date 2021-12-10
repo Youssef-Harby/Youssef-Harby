@@ -9,7 +9,12 @@
 
 ### Open-source Projects
 
-- **Python Tools:** [split-rs-data](https://github.com/Youssef-Harby/split-rs-data) | [buildseg](https://github.com/geoyee/buildseg) | [PaddleCV-SIG / EISeg](https://github.com/PaddleCV-SIG/EISeg/tree/rsfix) | [Remote-sensing-building-extraction-to-3D-model-using-Paddle-and-Grasshopper](https://github.com/Youssef-Harby/Remote-sensing-building-extraction-to-3D-model-using-Paddle-and-Grasshopper)
+- **Python Tools:** 
+- [split-rs-data](https://github.com/Youssef-Harby/split-rs-data)
+- [Deep Learning Datasets Maker](https://github.com/deepbands/deep-learning-datasets-maker)
+- [buildseg](https://github.com/deepbands/buildseg)
+- [PaddleCV-SIG / EISeg](https://github.com/PaddleCV-SIG/EISeg)
+- [Remote-sensing-building-extraction-to-3D-model-using-Paddle-and-Grasshopper](https://github.com/Youssef-Harby/Remote-sensing-building-extraction-to-3D-model-using-Paddle-and-Grasshopper)
 
 ---
 
