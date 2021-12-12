@@ -19,7 +19,7 @@
 ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Youssef-Harby&show_icons=true)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Harby&langs_count=3&hide=javascript,go,html,css,tex)
- -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Harby&langs_count=3&hide=javascript,go,html,css,tex,jupyter%20notebook)
+
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef-Harby&hide_langs_below=10)
  -->
