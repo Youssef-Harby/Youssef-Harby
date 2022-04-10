@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PP-Label-Frontend](https://github.com/PaddleCV-SIG/PP-Label-Frontend)
+- 🔭 I’m currently working on [PP-Label-Frontend](https://github.com/PaddleCV-SIG/PP-Label-Frontend) , [deepbands](https://github.com/deepbands)
 
 - 🌱 I’m currently learning **Deep Learning, Django**
 
