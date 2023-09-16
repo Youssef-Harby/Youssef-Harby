@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoussef_harby=self.webpackChunkyoussef_harby||[]).push([[2456],{2045:s=>{s.exports=JSON.parse('{"permalink":"/Youssef-Harby/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkyoussef_harby=self.webpackChunkyoussef_harby||[]).push([[3560],{5733:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/Youssef-Harby/blog/tags/hello","allTagsPath":"/Youssef-Harby/blog/tags","count":2}')}}]);
